@@ -23,7 +23,7 @@ This is the main view of the client GUI and when the program it's launched:
 
 ![intro1](https://cloud.githubusercontent.com/assets/10881908/8023929/7f4981a0-0d21-11e5-9b14-6c75406dcf2f.png)
 
-I only got one play list, named English. On the play list tab, there are listed all
+I only got one play list, named English. On the favorites tab, there are listed all
 the songs from all your play lists, on the Songs tab there are all the songs stored
 by the server, and on PartyList, it's the shared play list.
 
