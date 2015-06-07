@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This is the networking configuration file for the Server-->
+<PARAMETERS>
+	<IP>127.0.0.1</IP>
+	<PORT>22255</PORT>
+</PARAMETERS>
