@@ -17,6 +17,8 @@ This are some screen-shots of the program:
 
 This is the view of the login screen and the sign-UP page of the user:
 
+https://cloud.githubusercontent.com/assets/10881908/8023929/7f4981a0-0d21-11e5-9b14-6c75406dcf2f.png
+
 This is the main view of the client GUI and when the program it's launched:
 
 I only got one play list, named English. On the play list tab, there are listed all
