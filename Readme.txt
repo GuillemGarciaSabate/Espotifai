@@ -17,7 +17,7 @@ This are some screen-shots of the program:
 
 This is the view of the login screen and the sign-UP page of the user:
 
-![login](https://cloud.githubusercontent.com/assets/10881908/8023943/f26fc89c-0d21-11e5-92fb-c519c2e4d59f.png)
+https://cloud.githubusercontent.com/assets/10881908/8023943/f26fc89c-0d21-11e5-92fb-c519c2e4d59f.png
 
 This is the main view of the client GUI and when the program it's launched:
 
