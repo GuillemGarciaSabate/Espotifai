@@ -1,5 +1,35 @@
-1. A DataBaseAccess es necessari canviar la pass de la base de dades (guardat en un PASS static a la classe) amb la contrasenya que tingui l'usuari. El mateix en cas de que no s'usi el user "root" o no s'usi el port 3306 per usar MySQL.
+### ESPOTIFAI
 
-2. Servidor s'ha d'obrir abans que Client.
+The framework used on this program it's the classical MVC+Network, and involves 
+sockets, threads and data base usage. It needs a network configuring file and mp3
+files to store, to make it run, you will need a JVM and a DB. See that this is a
+team project, I'm the responsible and designer of package network and everything 
+related with it in the models package, I highly contributed to the DataBase 
+administration and the access to this one. I did not do anything on the views of 
+the client and the server.
 
-3. Les músiques només s'han d'agafar des de la carpeta music en Server quan es vol crear una nova música.
+
+Espotifai it's a program made to share music between a server and all his clients.
+In fact an user can list and download every song stored in the server, as well as
+create play lists, play his songs and contribute to a common list named PartyList
+which basically it's a play list shared by everyone.
+This are some screen-shots of the program:
+
+This is the view of the login screen and the sign-UP page of the user:
+
+This is the main view of the client GUI and when the program it's launched:
+
+I only got one play list, named English. On the play list tab, there are listed all
+the songs from all your play lists, on the Songs tab there are all the songs stored
+by the server, and on PartyList, it's the shared play list.
+
+The buttons next to the name of the songs are to add the song to a playlist, play it
+or delete it as you want, when you press the add and delete ones, there are going to 
+appear a pop-up menus, which will let you indicate the proper option:
+
+On the server this is the main view, and the options it display are user gestion, to
+administrate your users, music gestion, to administrate your music and view your
+statistics and party list, to see the common party list:
+
+
+
